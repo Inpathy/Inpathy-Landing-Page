@@ -428,7 +428,7 @@ section {
     gap: 4.41vw;
 }
 .footer-menu-inner a {
-    font-size: 23px;
+    font-size: 21px;
     letter-spacing: 1px;
 }
 .social-share {
@@ -580,7 +580,7 @@ section {
     }
 
     .footer-menu-inner {
-        gap: 4.41vw;
+        gap: 4vw;
     }
 
 }
@@ -1261,6 +1261,10 @@ section {
         opacity: 1;
     }
 }
+
+
+
+
 
 
 
