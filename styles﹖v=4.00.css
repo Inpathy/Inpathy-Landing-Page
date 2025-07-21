@@ -189,13 +189,13 @@ section {
     right: 0;
 }
 .balanced {
-    left: 16rem;
+    left: 14rem;
     top: 20px;
     animation-delay: .6s;
 }
 
 .stressed {
-    right: 16rem;
+    right: 11rem;
     animation-delay: .7s;
 }
 .depressed  {
@@ -594,7 +594,8 @@ section {
 
 @media only screen and (max-width: 1680px) {
     .balanced {
-        left: 11vw;
+        left: 14vw;
+        top: 20px;
     }
     .stressed {
         right: 10vw;
