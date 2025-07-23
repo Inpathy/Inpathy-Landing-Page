@@ -436,7 +436,7 @@ section {
     justify-content: center;
     align-items: center;
     gap: 6.83vw;
-    margin: 63.9px auto;
+    margin: 96.9px auto;
 }
 .social-icon {
     display: flex;
@@ -603,7 +603,7 @@ section {
 
     /* Footer */
     .footer-menu-inner a {
-        font-size: 18px;
+        font-size: 16px;
         letter-spacing: 1px;
     }
     .social-share img {
@@ -636,7 +636,7 @@ section {
 
 
     .dots {
-        left: 60px;
+        left: 25px;
     }
 
    
@@ -662,12 +662,12 @@ section {
         /* height: 55px; */
     }
     .dots {
-        gap: 26px;
-        left: 61px;
+        gap: 17px;
+        left: 25px;
     }
     .dot {
-        width: 13.27px;
-        height: 13.27px;
+        width: 10.27px;
+        height: 10.27px;
     }
     .slider-img img {
         height: 80.63vh;
@@ -678,13 +678,13 @@ section {
 
     /* social share */
     .social-share {
-        gap: 90px;
+        gap: 75px;
     }
     .social-share img {
         height: 30px;
     }
     .footer-menu-inner {
-        gap: 54px;
+        gap: 45px;
     }
     .footer-menu-inner a {
         font-size: 16px;
