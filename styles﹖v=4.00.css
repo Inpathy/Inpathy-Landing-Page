@@ -684,7 +684,7 @@ section {
         height: 30px;
     }
     .footer-menu-inner {
-        gap: 45px;
+        gap: 41px;
     }
     .footer-menu-inner a {
         font-size: 16px;
@@ -1164,7 +1164,7 @@ section {
 
 
     .social-share {
-        gap: 65px;
+        gap: 70px;
     }
     .social-share img {
         height: 22px;
@@ -1183,7 +1183,7 @@ section {
         margin-bottom: 70px;
     }
     .footer-menu-inner a {
-        font-size: 13.5px;
+        font-size: 13px;
     }
     .copy-right-text img {
         height: 15.02px;
