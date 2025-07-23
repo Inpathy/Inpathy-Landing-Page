@@ -336,7 +336,7 @@ section {
     height: calc(100vh - 111px);
     width: auto;   
     box-shadow: 40px 60px 200px #00000012;
-    border-radius: 5.1vh;
+    border-radius: 5.4vh;
      will-change: opacity;
 }
 
@@ -394,7 +394,7 @@ section {
 }
 .logo-slide img {
     max-height: 50px;
-    transition: all .3s linear;
+    transition: all .2s linear;
 }
 .logo-slide img.pink {
     visibility: hidden;
@@ -418,7 +418,7 @@ section {
 
 
 .footer-section .cta-wrap {
-    margin-bottom: 14vh;
+    margin-bottom: 13vh;
 }
 
 .footer-menu-inner {
@@ -428,15 +428,15 @@ section {
     gap: 4.41vw;
 }
 .footer-menu-inner a {
-    font-size: 21px;
-    letter-spacing: 1px;
+    font-size: 20px;
+    letter-spacing: px;
 }
 .social-share {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 6.83vw;
-    margin: 96.9px auto;
+    margin: 63.9px auto;
 }
 .social-icon {
     display: flex;
@@ -575,12 +575,12 @@ section {
 @media only screen and (min-width: 1440px) {
 
     .social-share {
-        margin: 96.9px auto;
+        margin: 75.9px auto;
         height: 44.59px;
     }
 
     .footer-menu-inner {
-        gap: 4vw;
+        gap: 4.6vw;
     }
 
 }
@@ -603,7 +603,7 @@ section {
 
     /* Footer */
     .footer-menu-inner a {
-        font-size: 16px;
+        font-size: 18px;
         letter-spacing: 1px;
     }
     .social-share img {
@@ -636,7 +636,7 @@ section {
 
 
     .dots {
-        left: 25px;
+        left: 60px;
     }
 
    
@@ -662,12 +662,12 @@ section {
         /* height: 55px; */
     }
     .dots {
-        gap: 17px;
-        left: 25px;
+        gap: 26px;
+        left: 61px;
     }
     .dot {
-        width: 10.27px;
-        height: 10.27px;
+        width: 13.27px;
+        height: 13.27px;
     }
     .slider-img img {
         height: 80.63vh;
@@ -678,13 +678,13 @@ section {
 
     /* social share */
     .social-share {
-        gap: 75px;
+        gap: 90px;
     }
     .social-share img {
         height: 30px;
     }
     .footer-menu-inner {
-        gap: 45px;
+        gap: 54px;
     }
     .footer-menu-inner a {
         font-size: 16px;
@@ -1261,10 +1261,6 @@ section {
         opacity: 1;
     }
 }
-
-
-
-
 
 
 
