@@ -418,7 +418,7 @@ section {
 
 
 .footer-section .cta-wrap {
-    margin-bottom: 13vh;
+    margin-bottom: 12.5vh;
 }
 
 .footer-menu-inner {
@@ -429,7 +429,7 @@ section {
 }
 .footer-menu-inner a {
     font-size: 20px;
-    letter-spacing: px;
+    letter-spacing: 1px;
 }
 .social-share {
     display: flex;
@@ -575,7 +575,7 @@ section {
 @media only screen and (min-width: 1440px) {
 
     .social-share {
-        margin: 75.9px auto;
+        margin: 79.9px auto;
         height: 44.59px;
     }
 
