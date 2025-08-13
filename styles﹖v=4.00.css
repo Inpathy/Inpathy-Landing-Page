@@ -757,7 +757,7 @@ section {
 
 
     .social-share {
-        margin: 50px auto;
+        margin: 56px auto;
     }
  
     .social-share img {
@@ -1167,7 +1167,7 @@ section {
         gap: 65px;
     }
     .social-share img {
-        height: 22px;
+        height: 23px;
     }
 
     .footer-section {
@@ -1177,13 +1177,14 @@ section {
         padding-bottom: 50px;
     }
     .carousel-track{
-        padding: 70px 0;
+        padding: 92px 0;
     }
     .footer-section .cta-wrap {
-        margin-bottom: 70px;
+        margin-bottom: 76px;
     }
     .footer-menu-inner a {
-        font-size: 13.5px;
+        font-size: 14px;
+        letter-spacing: 0.7px;
     }
     .copy-right-text img {
         height: 15.02px;
@@ -1211,7 +1212,7 @@ section {
 
 @media only screen and (max-width: 479px)  {
     .copy-right-text img {
-        height: 2.8vw;
+        height: 3.4vw;
     }
     .slider-img.sm-1 img {
         box-shadow: 40px 60px 2004px #00000047;
