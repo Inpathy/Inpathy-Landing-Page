@@ -117,7 +117,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: .68vw 2.99vw;
+    padding: .66vw 2.99vw;
     font-weight: 700;
     transition: all .2s;
     box-shadow: 0 16px 60px #ff5f444d;
@@ -336,7 +336,7 @@ section {
     height: calc(100vh - 111px);
     width: auto;   
     box-shadow: 40px 60px 200px #00000012;
-    border-radius: 5.4vh;
+    border-radius: 5.1vh;
      will-change: opacity;
 }
 
@@ -394,7 +394,7 @@ section {
 }
 .logo-slide img {
     max-height: 50px;
-    transition: all .2s linear;
+    transition: all .3s linear;
 }
 .logo-slide img.pink {
     visibility: hidden;
@@ -418,7 +418,7 @@ section {
 
 
 .footer-section .cta-wrap {
-    margin-bottom: 12.5vh;
+    margin-bottom: 14vh;
 }
 
 .footer-menu-inner {
@@ -428,7 +428,7 @@ section {
     gap: 4.41vw;
 }
 .footer-menu-inner a {
-    font-size: 20px;
+    font-size: 21px;
     letter-spacing: 1px;
 }
 .social-share {
@@ -575,12 +575,12 @@ section {
 @media only screen and (min-width: 1440px) {
 
     .social-share {
-        margin: 79.9px auto;
+        margin: 96.9px auto;
         height: 44.59px;
     }
 
     .footer-menu-inner {
-        gap: 4.6vw;
+        gap: 4vw;
     }
 
 }
@@ -684,7 +684,7 @@ section {
         height: 30px;
     }
     .footer-menu-inner {
-        gap: 41px;
+        gap: 45px;
     }
     .footer-menu-inner a {
         font-size: 16px;
@@ -757,7 +757,7 @@ section {
 
 
     .social-share {
-        margin: 53px auto;
+        margin: 56px auto;
     }
  
     .social-share img {
@@ -1164,10 +1164,10 @@ section {
 
 
     .social-share {
-        gap: 70px;
+        gap: 65px;
     }
     .social-share img {
-        height: 22px;
+        height: 23px;
     }
 
     .footer-section {
@@ -1177,13 +1177,14 @@ section {
         padding-bottom: 50px;
     }
     .carousel-track{
-        padding: 70px 0;
+        padding: 92px 0;
     }
     .footer-section .cta-wrap {
-        margin-bottom: 70px;
+        margin-bottom: 76px;
     }
     .footer-menu-inner a {
-        font-size: 13px;
+        font-size: 14px;
+        letter-spacing: 0.7px;
     }
     .copy-right-text img {
         height: 15.02px;
@@ -1211,7 +1212,7 @@ section {
 
 @media only screen and (max-width: 479px)  {
     .copy-right-text img {
-        height: 2.8vw;
+        height: 3.4vw;
     }
     .slider-img.sm-1 img {
         box-shadow: 40px 60px 2004px #00000047;
@@ -1247,16 +1248,6 @@ section {
     
 }
 
-@media screen and (min-width: 1200px) and (max-width: 1320px) and (orientation: landscape) and (resolution: 2dppx) {
-     /*Styles for MacBook 13" Retina*/
-
-}
-
-@media screen and (min-width: 1400px) and (max-width: 1480px) and (orientation: landscape) and (resolution: 1dppx) {
-    /* Styles for MacBook 13" */
-}
-
-
 
 
 
@@ -1271,6 +1262,3 @@ section {
         opacity: 1;
     }
 }
-
-
-
