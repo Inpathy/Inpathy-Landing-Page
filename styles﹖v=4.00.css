@@ -1247,6 +1247,16 @@ section {
     
 }
 
+@media screen and (min-width: 1200px) and (max-width: 1320px) and (orientation: landscape) and (resolution: 2dppx) {
+     /*Styles for MacBook 13" Retina*/
+
+}
+
+@media screen and (min-width: 1400px) and (max-width: 1480px) and (orientation: landscape) and (resolution: 1dppx) {
+    /* Styles for MacBook 13" */
+}
+
+
 
 
 
